@@ -58,6 +58,8 @@ plt.bar(label, val)
 plt.title('Сравнение CTR')
 plt.show()
 ```
+![alt text](https://github.com/Elisavile/a-b-test/blob/main/hist.png)
+
 Из графика можно сделать вывод, что тестовая группа имеет более высокий CTR
 
 6. Проведем статистические тесты
