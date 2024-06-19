@@ -1,6 +1,6 @@
 ## A/B test
 
-![alt text](https://github.com/Elisavile/a-b-test/blob/main/ab-testing.png)
+![alt text](https://github.com/Elisavile/a-b-test/blob/main/AB-testing-adpushup.jpg)
 
 A/B тестирование - метод исследования для оценки эффективности двух вариантов одного элемента. Классичекое проведение A/B теста проходит следующим образом:
 
